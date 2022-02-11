@@ -11,3 +11,8 @@
 1. InceptionV3: [Fruit360_classifier_InceptionV3.ipynb](Fruit360_classifier_InceptionV3.ipynb)
 2. ConvNeXt: [Fruit360_classifier_ConvNeXt.ipynb](Fruit360_classifier_ConvNeXt.ipynb)
 3. Vision Transformer(Vit): [Fruit360_classifier_ViT.ipynb](Fruit360_classifier_ViT.ipynb)
+
+### Model accuracy:
+1. InceptionV3: 87% 
+2. ConvNeXt: 95%
+3. Vision Transformer(Vit): 96%
